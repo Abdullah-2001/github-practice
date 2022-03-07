@@ -2,4 +2,4 @@
 
 a fast pace course for get up to speed with git & github
 
-working on master branche
+working on master branch in git
